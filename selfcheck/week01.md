@@ -14,10 +14,10 @@ a Java osztályokat fogjátok alapszinten megismerni.
 * [x] Maven gyakorlati feladat
 * [x] [IDE videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709791-ide)
 * [x] IDE videó gyakorlati feladat
-* [ ] [Git használata az IDE-ben videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709754-git-hasznalata-az-ide-ben)
-* [ ] Git használata az IDE-ben gyakorlati feladat
-* [ ] [Feltöltés GitHubra](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/17606463-feltoltes-githubra)
-* [ ] Feltöltés GitHubra gyakorlati feladat
+* [x] [Git használata az IDE-ben videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709754-git-hasznalata-az-ide-ben)
+* [x] Git használata az IDE-ben gyakorlati feladat
+* [x] [Feltöltés GitHubra](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/17606463-feltoltes-githubra)
+* [x] Feltöltés GitHubra gyakorlati feladat
 
 ## Bevezetés a Java osztályok használatába
 
@@ -35,10 +35,10 @@ a Java osztályokat fogjátok alapszinten megismerni.
 ## Konzultációk
 
 * [x] 2021-10-11 konzultáció részvétel/videó
-* [x] 2021-10-11 konzultáció gyakorlati feladat
+* [ ] 2021-10-11 konzultáció gyakorlati feladat
 * [x] 2021-10-12 konzultáció részvétel/videó
 * [x] 2021-10-12 konzultáció gyakorlati feladat
 * [x] 2021-10-14 konzultáció részvétel/videó
-* [ ] 2021-10-14 konzultáció gyakorlati feladat
+* [x] 2021-10-14 konzultáció gyakorlati feladat
 * [x] 2021-10-15 konzultáció részvétel/videó
 * [ ] 2021-10-15 konzultáció gyakorlati feladat

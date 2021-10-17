@@ -4,117 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2914b0c8-8204-4267-bd0a-7d816cbf4904" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/introjdk/HelloWorld.java" beforeDir="false" />
+    <list default="true" id="19884b3b-3ccb-4738-92af-a6db67484476" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-solutions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-solutions/introide/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introgit/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/src/main/java/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introgit/src/main/java/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introide/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introide/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introide/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/introide/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introide/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/src/main/java/introjdk/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-solutions/target/classes/introjdk/HelloWorld.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zaTuTM07iHAk6vHWfZvTydrM3C" />
+  <component name="ProjectId" id="1zeB8Esz55TrrDPIwFna0Edg7wq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introjdk.HelloWorld" />
-      <module name="training-solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="introjdk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.HelloWorld" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2914b0c8-8204-4267-bd0a-7d816cbf4904" name="Changes" comment="" />
-      <created>1634385424013</created>
+      <changelist id="19884b3b-3ccb-4738-92af-a6db67484476" name="Changes" comment="" />
+      <created>1634498511291</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634385424013</updated>
+      <updated>1634498511291</updated>
     </task>
-    <task id="LOCAL-00001" summary="The project &quot;training-solutions&quot; has been created.">
-      <created>1634386039562</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1634386039562</updated>
-    </task>
-    <task id="LOCAL-00002" summary="&quot;introjdk&quot; as a package has been created, practice exercise &quot;introjdk&quot; is done.">
-      <created>1634390127264</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1634390127264</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="SHOW_DETAILS" value="true" />
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The project &quot;training-solutions&quot; has been created." />
-    <MESSAGE value="&quot;introjdk&quot; as a package has been created, practice exercise &quot;introjdk&quot; is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;introjdk&quot; as a package has been created, practice exercise &quot;introjdk&quot; is done." />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

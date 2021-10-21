@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19884b3b-3ccb-4738-92af-a6db67484476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training-solutions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training-solutions/introide/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introgit/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introgit/src/main/java/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introgit/src/main/java/HelloGit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introide/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introide/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introide/src/main/java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/introide/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/training-solutions/introide/target/classes/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/src/main/java/introjdk/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-solutions/target/classes/introjdk/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfcheck/week01.md" beforeDir="false" afterPath="$PROJECT_DIR$/selfcheck/week01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +26,7 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -10,7 +10,7 @@ public class InvestmentMain {
         int fund;
         int interestRate;
         int numberOfDays;
-        int numberOfDaysAfterOneYear;
+        int numberOfDaysBeforeClosing;
 
         System.out.println("Enter the investment amount!");
         fund = scanner.nextInt();
@@ -21,8 +21,8 @@ public class InvestmentMain {
         System.out.println("Specify a period in days. The yield of your investment will be calculated.");
         numberOfDays = scanner.nextInt();
 
-        System.out.println("After one year you can close your investment. Specify a period in days.");
-        numberOfDaysAfterOneYear = scanner.nextInt();
+        System.out.println("You can close your investment. Specify a period in days.");
+        numberOfDaysBeforeClosing = scanner.nextInt();
 
         investment = new Investment(fund, interestRate);
 
@@ -32,13 +32,13 @@ public class InvestmentMain {
         System.out.println("Yield after " + numberOfDays + " days: " + investment.getYield(numberOfDays));
         System.out.println(
                 "Value of investment after " +
-                        numberOfDaysAfterOneYear + " days: " + investment.close(numberOfDaysAfterOneYear));
+                        numberOfDaysBeforeClosing + " days: " + investment.close(numberOfDaysBeforeClosing));
 
         System.out.println("Now, try to close the investment once again. Specify a period in days.");
-        numberOfDaysAfterOneYear = scanner.nextInt();
+        numberOfDaysBeforeClosing = scanner.nextInt();
 
         System.out.println(
                 "Value of investment after " +
-                        numberOfDaysAfterOneYear + " days: " + investment.close(numberOfDaysAfterOneYear));
+                        numberOfDaysBeforeClosing + " days: " + investment.close(numberOfDaysBeforeClosing));
     }
 }

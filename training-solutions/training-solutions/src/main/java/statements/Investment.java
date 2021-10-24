@@ -23,13 +23,11 @@ public class Investment {
         return (double) fund * (double) interestRate / 100.0 * (double) numberOfDays / 365.0;
     }
 
-    public double close(int numberOfDayAfterPeriod) {
+    public double close(int numberOfDays) {
         boolean isAlreadyClosed;
-        int numberOfDays;
         double amountPayable;
 
         isAlreadyClosed = !active;
-        numberOfDays = numberOfDayAfterPeriod + 365;
         amountPayable = (fund + getYield(numberOfDays)) * (1.0 - cost);
 
         active = false;

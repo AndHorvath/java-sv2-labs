@@ -4,10 +4,10 @@ public class BillItem {
 
     // --- attributes ---------------------------------------------------------
 
-    String product;
-    int price;
-    int quantity;
-    double vatPercent;
+    private String product;
+    private int price;
+    private int quantity;
+    private double vatPercent;
 
     // --- constructors -------------------------------------------------------
 

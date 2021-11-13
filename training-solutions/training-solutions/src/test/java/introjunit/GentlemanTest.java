@@ -1,18 +1,24 @@
 package introjunit;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.Test;
+
+import static org.hamcrest.CoreMatchers.equalTo;
+import static org.junit.Assert.assertThat;
 
 public class GentlemanTest {
 
+    // Given
     Gentleman gentleman = new Gentleman();
 
     // --- Első teszt implementálása ------------------------------------------
 
     @Test
     public void testSayHello() {
+        // When
         String gentlemanSentence = gentleman.sayHello("John Doe");
-        assertEquals("Hello, John Doe!"/* + "!"*/, gentlemanSentence);
+        // Then
+        assertThat(gentlemanSentence, equalTo("Hello, John Doe!"/* + "!"*/));
         // The part commented out hase been used for testing JUnit.
     }
 
@@ -20,12 +26,12 @@ public class GentlemanTest {
 
     /*
     Programhiba:
-    org.opentest4j.AssertionFailedError:
-    Expected :Hello, John Doe!
+    java.lang.AssertionError:
     Actual   :Hello, John Doe!!
+    Expected :Hello, John Doe!
 
     Teszthiba:
-    org.opentest4j.AssertionFailedError:
+    java.lang.AssertionError:
     Expected :Hello, John Doe!!
     Actual   :Hello, John Doe!
     */
@@ -34,7 +40,9 @@ public class GentlemanTest {
 
     @Test
     public void testSayHelloForNull() {
-        String gentlemanSentence = gentleman.sayHello(null);
-        assertEquals("Hello, Anonymous!", gentlemanSentence);
+        // When
+        String gentlemanSentenceNull = gentleman.sayHello(null);
+        // Then
+        assertThat(gentlemanSentenceNull, equalTo("Hello, Anonymous!"));
     }
 }

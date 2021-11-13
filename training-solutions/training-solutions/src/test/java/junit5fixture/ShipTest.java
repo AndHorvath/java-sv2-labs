@@ -3,7 +3,7 @@ package junit5fixture;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ShipTest {
+class ShipTest {
 
     Ship ship;
 

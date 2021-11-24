@@ -26,8 +26,8 @@ Ezen a héten a kivétel- és fájlkezelést fogjátok alapszinten megismerni.
 * [x] Kivétel becsomagolása gyakorlati feladat
 * [x] [Fájlbeolvasás tesztelése JUnit 5 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178029-fajlbeolvasas-tesztelese-junit-5-hasznalataval)
 * [x] Fájlbeolvasás tesztelése JUnit 5 használatával gyakorlati feladat
-* [ ] [Fájl írása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178041-fajl-irasa)
-* [ ] Fájl írása gyakorlati feladat
+* [x] [Fájl írása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178041-fajl-irasa)
+* [x] Fájl írása gyakorlati feladat
 * [ ] [Fájl írásának tesztelése JUnit 5 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178063-fajl-irasanak-tesztelese-junit-5-hasznalataval)
 * [ ] Fájl írásának tesztelése JUnit 5 használatával gyakorlati feladat
 * [ ] [A finally ág videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178086-a-finally-ag)

@@ -1,4 +1,4 @@
-package objectclass.ancestor;
+package objectclass;
 
 public class Beer {
 

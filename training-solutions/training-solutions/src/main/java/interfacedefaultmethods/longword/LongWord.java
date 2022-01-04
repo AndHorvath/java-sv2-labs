@@ -19,7 +19,6 @@ public class LongWord implements FileOperations {
 
     // --- getters and setters ------------------------------------------------
 
-
     public Path getLongWordPath() { return longWordPath; }
 
     // --- public methods -----------------------------------------------------
@@ -37,13 +36,13 @@ public class LongWord implements FileOperations {
 
     private List<Direction> initializeDirectionList(List<String> matrix) {
         List<Direction> directionList = new ArrayList<>();
-        int numberOfRows = matrix.size() - 1;
-        int numberOfColumns = matrix.get(0).length() - 1;
+        int numberOfRows = matrix.size();
+        int numberOfColumns = matrix.get(0).length() ;
 
-        for (int i = 0; i < numberOfColumns; i++) {
+        for (int i = 0; i < numberOfColumns - 1; i++) {
             directionList.add(Direction.RIGHT);
         }
-        for (int i = 0; i < numberOfRows; i++) {
+        for (int i = 0; i < numberOfRows - 1; i++) {
             directionList.add(Direction.DOWN);
         }
         return directionList;

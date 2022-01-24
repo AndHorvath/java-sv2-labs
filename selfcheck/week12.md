@@ -4,24 +4,24 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 
 ## Belső osztályok
 
-* [ ] [Belső osztályok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/29778400-belso-osztalyok)
-* [ ] Belső osztályok gyakorlati feladat
+* [x] [Belső osztályok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/29778400-belso-osztalyok)
+* [x] Belső osztályok gyakorlati feladat
 
 ## Generikusok
 
-* [ ] [Generikusok használata, diamond operátor videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769614-generikusok-hasznalata-diamond-operator)
-* [ ] Generikusok használata, diamond operátor gyakorlati feladat
+* [x] [Generikusok használata, diamond operátor videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769614-generikusok-hasznalata-diamond-operator)
+* [x] Generikusok használata, diamond operátor gyakorlati feladat
 
 ## Kollekciók
 
-* [ ] [Az equals() és hashCode() metódusok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769615-az-equals-es-hashcode-metodusok)
-* [ ] Az equals() és hashCode() metódusok gyakorlati feladat
-* [ ] [List, ArrayList kontra LinkedList videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769616-list-arraylist-kontra-linkedlist)
-* [ ] List, ArrayList kontra LinkedList gyakorlati feladat
-* [ ] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
-* [ ] Set gyakorlati feladat
-* [ ] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
-* [ ] Queue gyakorlati feladat
+* [x] [Az equals() és hashCode() metódusok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769615-az-equals-es-hashcode-metodusok)
+* [x] Az equals() és hashCode() metódusok gyakorlati feladat
+* [x] [List, ArrayList kontra LinkedList videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769616-list-arraylist-kontra-linkedlist)
+* [x] List, ArrayList kontra LinkedList gyakorlati feladat
+* [x] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
+* [x] Set gyakorlati feladat
+* [x] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
+* [x] Queue gyakorlati feladat
 * [ ] [Map videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769620-map)
 * [ ] Map gyakorlati feladat
 * [ ] [Autoboxing használata kollekcióknál videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769619-autoboxing-hasznalata-kollekcioknal)
@@ -48,7 +48,7 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 * [ ] 2022-01-10 konzultáció gyakorlati feladat
 * [x] 2022-01-11 konzultáció részvétel/videó
 * [x] 2022-01-11 konzultáció gyakorlati feladat
-* [ ] 2022-01-13 konzultáció részvétel/videó
+* [x] 2022-01-13 konzultáció részvétel/videó
 * [ ] 2022-01-13 konzultáció gyakorlati feladat
-* [ ] 2022-01-14 konzultáció részvétel/videó
+* [x] 2022-01-14 konzultáció részvétel/videó
 * [ ] 2022-01-14 konzultáció gyakorlati feladat

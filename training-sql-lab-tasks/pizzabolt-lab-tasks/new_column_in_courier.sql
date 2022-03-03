@@ -1,0 +1,2 @@
+ALTER TABLE futar
+ADD COLUMN szuletesi_ev INT(4) NOT NULL DEFAULT 0;

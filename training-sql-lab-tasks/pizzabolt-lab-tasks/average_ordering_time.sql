@@ -1,0 +1,1 @@
+SELECT ROUND(AVG(ido), 1) AS Atlag FROM rendeles;

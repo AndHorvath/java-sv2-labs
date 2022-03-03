@@ -1,0 +1,1 @@
+SELECT ROUND(AVG(db), 1) AS Atlag FROM tetel;

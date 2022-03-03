@@ -1,0 +1,2 @@
+SELECT COUNT(nev) FROM futar
+WHERE nev NOT LIKE 'G%';

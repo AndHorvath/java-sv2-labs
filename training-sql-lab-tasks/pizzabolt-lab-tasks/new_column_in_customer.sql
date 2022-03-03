@@ -1,0 +1,2 @@
+ALTER TABLE vevo
+ADD telefon VARCHAR(9) NOT NULL;

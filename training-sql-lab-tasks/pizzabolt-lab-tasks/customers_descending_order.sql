@@ -1,0 +1,2 @@
+SELECT nev FROM vevo
+ORDER BY nev DESC;

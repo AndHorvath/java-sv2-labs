@@ -1,0 +1,2 @@
+SELECT nev FROM pizza
+ORDER BY nev DESC;

@@ -1,0 +1,3 @@
+SELECT * FROM termek
+ORDER BY ar
+LIMIT 1;
